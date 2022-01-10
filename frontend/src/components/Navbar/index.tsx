@@ -9,7 +9,7 @@ function NavBar(){
                 <a href="https://github.com/mario-estevam/dsMovie_SpringReact" target="_blank" rel="noreferrer">
                     <div className="dsmovie-contact-container">
                         <GithubIcon />
-                        <p className="dsmovie-contact-link">/devsuperior</p>
+                        <p className="dsmovie-contact-link">/mario-estevam</p>
                     </div>
                 </a>
             </div>
