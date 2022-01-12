@@ -14,6 +14,7 @@
 	<name>dsmovie</name>
 	<description>Projeto Criado na semana Spring React</description>
 	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
