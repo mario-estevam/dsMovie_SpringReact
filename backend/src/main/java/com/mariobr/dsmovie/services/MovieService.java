@@ -13,7 +13,7 @@ import java.util.List;
 
 @Service
 public class MovieService {
-
+        //service
     @Autowired
     private MovieRepository movieRepository;
 
