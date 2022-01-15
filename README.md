@@ -21,7 +21,7 @@ Obs: Foram utilizados dois bancos de dados pois o h2 que é um banco de dados em
 <ul>
 <li> React router dom   </li>
 <li> Bootstrap   </li>
-<li> axios  </li>
+<li> Axios  </li>
 </ul>
 
 # Deploy
