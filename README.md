@@ -17,6 +17,7 @@ Projeto desenvolvido na semana SpringReact
 <br/>
 Obs: Foram utilizados dois bancos de dados pois o h2 que é um banco de dados em memória serviu para testes, e o postgres foi utilizado como banco de dados final.
 <br/>
+<br/>
 -> No Frontend foi utilizado a biblioteca React 
 <ul>
 <li> React router dom   </li>
