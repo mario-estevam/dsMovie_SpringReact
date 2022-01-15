@@ -30,6 +30,7 @@ Obs: Foram utilizados dois bancos de dados pois o h2 que é um banco de dados em
 -> Para o frontend foi utilizado o site netlifly
 
 # Site
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/mMFhTxj" data-context="false" ><a href="//imgur.com/a/mMFhTxj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<center> <a href="dsmovie-bymario.netlify.app"><img src="https://i.imgur.com/etwFIhf.png" title="source: site" /></a> </center>
 
 
