@@ -31,4 +31,4 @@ Obs: Foram utilizados dois bancos de dados pois o h2 que é um banco de dados em
 
 # Site
 
-<center> <a href="https://imgur.com/etwFIhf"> <img src="i.imgur.com/etwFIhf.png" title="source: site Spring React" /></a> </center>
+<center> <a href="https://imgur.com/etwFIhf"> <img src="i.imgur.com/etwFIhf.png" title="source: imgur.com" /></a> </center>
