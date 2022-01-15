@@ -19,6 +19,7 @@ Obs: Foram utilizados dois bancos de dados pois o h2 que é um banco de dados em
 <br/>
 <br/>
 -> No Frontend foi utilizado a biblioteca React 
+<br/>
 <ul>
 <li> React router dom   </li>
 <li> Bootstrap   </li>
