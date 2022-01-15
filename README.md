@@ -26,7 +26,7 @@ Obs: Foram utilizados dois bancos de dados pois o h2 que é um banco de dados em
 
 # Deploy
 
--> Para o backend foi utilizado o site heroku para deploy
+-> Para o backend foi utilizado o site heroku para deploy <br/>
 -> Para o frontend foi utilizado o site netlifly
 
 # Site
